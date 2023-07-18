@@ -1,20 +1,26 @@
 package com.stepdefinitions;
 
+import com.pages.HomePage;
+import com.qa.factory.DriverFactory;
+
+
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class HomeSteps {
+	private HomePage homepage=new HomePage(DriverFactory.getDriver());
 	
 
 @Given("The user opens DS Algo portal link")
 public void the_user_opens_ds_algo_portal_link() {
-    
+	DriverFactory.getDriver().get("https://dsportalapp.herokuapp.com/");
 }
 
 @When("The user clicks the {string} button")
 public void the_user_clicks_the_button(String string) {
-   
+	
+	homepage.clickgetstarted();
 }
 
 @Then("The user should be redirected to homepage")
