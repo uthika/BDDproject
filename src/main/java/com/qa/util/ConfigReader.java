@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class ConfigReader {
 
-	private Properties prop;
+	public static Properties prop;;
 
 	/**
 	 * This method is used to load the properties from config.properties file

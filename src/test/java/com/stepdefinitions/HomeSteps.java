@@ -7,6 +7,7 @@ import com.qa.factory.DriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import junit.framework.Assert;
 
 public class HomeSteps {
 	private HomePage homepage=new HomePage(DriverFactory.getDriver());
@@ -20,22 +21,28 @@ public void the_user_opens_ds_algo_portal_link() {
 @When("The user clicks the {string} button")
 public void the_user_clicks_the_button(String string) {
 	
-	homepage.clickgetstarted();
+	homepage.clickGetStarted();
 }
 
+@SuppressWarnings("deprecation")
 @Then("The user should be redirected to homepage")
 public void the_user_should_be_redirected_to_homepage() {
-
+	String title = homepage.verifyHomePage();
+	Assert.assertTrue(title.contains("/home"));
+	//Assert.assertEquals("/home", title);
+	
 }
 
+@SuppressWarnings("deprecation")
 @Given("The user is on Home page")
 public void the_user_is_on_home_page() {
- 
+	String title = homepage.verifyHomePage();
+	Assert.assertTrue(title.contains("/home"));
 }
 
 @When("The user clicks on Get Started link on homepage {string} without login")
-public void the_user_clicks_on_get_started_link_on_homepage_without_login(String string) {
-
+public void the_user_clicks_on_get_started_link_on_homepage_without_login(String option) {
+	homepage.clickGetStarted(option);
 }
 
 @Then("It should alert the user with a message {string}")

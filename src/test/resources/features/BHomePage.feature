@@ -1,7 +1,6 @@
 
 Feature: DS-Algo Home Page feature
 
-@tag1
 Scenario: User launch home page of an dsalgo project
 Given The user opens DS Algo portal link
 When The user clicks the "Get Started" button
