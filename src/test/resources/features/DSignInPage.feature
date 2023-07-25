@@ -8,7 +8,7 @@ Then The user redirected to Registration page from signin page
 Scenario Outline: User on login page and login with invalid inputs
 Given  The user is on signin page
 When  The user enter invalid "<username>" and "<password>"
-Then click login button to verify
+Then click login button
 Examples: 
       | username | password |
       | user     |          |
@@ -27,17 +27,17 @@ Then click login button to verify
       | Sheet1    |         3 |
 
 Scenario Outline: The user is able to signin with registered credential
-Given The user is in the Sign in page
+Given The user is on the Sign in page
 When The user enters a valid "<username>" and "<password>"
 Then click login button to verify
 Examples: 
       | username   | password  |
-      | AgileNinjas@sdet120_1 | RT56YU@78 |
+      | uthika | ninja@study |
 
 
 Scenario: Verifying signout link
 Given The user is in the Home page with valid  log in
-When The user clicks "Sign out" 
+When The user clicks on "Sign out" 
 Then It should display the success message "Logged out successfully"
 
 

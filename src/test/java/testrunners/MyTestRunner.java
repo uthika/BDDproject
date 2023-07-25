@@ -1,8 +1,10 @@
 package testrunners;
+import org.testng.TestRunner;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
-
-
-
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.BeforeClass;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
@@ -21,6 +23,7 @@ import io.cucumber.testng.CucumberOptions;
 		)
 
 public class MyTestRunner extends AbstractTestNGCucumberTests {
+	
 	@Override
     @DataProvider(parallel = false)
     public Object[][] scenarios() {
@@ -28,5 +31,13 @@ public class MyTestRunner extends AbstractTestNGCucumberTests {
 		return super.scenarios();
     }
 	
-
-}
+//	public final static ThreadLocal<String> Browser = new ThreadLocal<>();
+//	
+//	@BeforeTest
+//	@Parameters({"browser"}) 
+//	
+//	public void browserType(String browser) throws Throwable
+//	{
+//		MyTestRunner.Browser.set(browser);
+//	}
+	}

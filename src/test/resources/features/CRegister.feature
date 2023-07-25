@@ -27,7 +27,7 @@ When The user enters a "username" with characters other than Letters, digits and
 Then It should display an error message "Please enter a valid username"
 
 Scenario: The user is presented with error message for username already exists
-Given The user is presented with error message for username already exists
+Given The user opens Register Page
 When The user enters a valid existing "username" with "password" and "password confirmation"
       | username     | password  | password confirmation |
       | AgileNinjas@sdet120_1 | RT56YUabc | RT56YUabc  |
