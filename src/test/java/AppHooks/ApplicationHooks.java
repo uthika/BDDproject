@@ -37,10 +37,10 @@ public class ApplicationHooks {
 		
 	}
 
-//	@AfterAll(order = 1)
-//	public static void quitBrowser() {
-//		driver.quit();
-//	}
+	@AfterAll(order = 1)
+	public static void quitBrowser() {
+		driver.quit();
+	}
 
 	@After(order = 0)
 	public static void tearDown(Scenario scenario) {
