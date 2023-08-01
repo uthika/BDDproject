@@ -54,7 +54,7 @@ Feature: Array
     
     
     Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Arrays Using List page
-    Given The user is in array page having an tryEditor with a Run button to test
+    Given The user is in array page having an tryEditor with a Run button to test for invalid syntax
     When The user enter python code with invalid syntax in Arrays using list page tryEditor from sheet "<Sheetname>" and <RowNumber>
     And The user clicks on run button for invalid code in list
     Then The user should be presented with error message for Arrays using List page
@@ -74,7 +74,7 @@ Feature: Array
       
    
     Scenario Outline: The user is able run code in tryEditor for Basic Operations in Lists page
-    Given The user is in array page having an tryEditor with a Run button to test
+    Given The user is in array page having an tryEditor with a Run button to test for valid code in basic operations 
     When The user enter valid python code in Basic Operations in Lists tryEditor from sheet "<Sheetname>" and <RowNumber>
     And The user clicks on run button for valid code in Basic Operations in Lists
     Then The user should be presented with Run result for Basic Operations in Lists page
@@ -85,7 +85,7 @@ Feature: Array
     
     
     Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Basic Operations in Lists page
-    Given The user is in array page having an tryEditor with a Run button to test
+    Given The user is in array page having an tryEditor with a Run button to test for invalid code in basic operations
     When The user enter python code with invalid syntax in Basic Operations in Lists page tryEditor from sheet "<Sheetname>" and <RowNumber>
     And The user clicks on run button for invalid code in Basic Operations in Lists
     Then The user should be presented with error message for Basic Operations in Lists page
@@ -105,7 +105,7 @@ Feature: Array
        
   
     Scenario Outline: The user is able run code in tryEditor for Applications of Array page
-    Given The user is in array page having an tryEditor with a Run button to test
+    Given The user is in array page having an tryEditor with a Run button to test for valid code in Applications of Array page
     When The user enter valid python code in Applications of Array page tryEditor from sheet "<Sheetname>" and <RowNumber>
     And The user clicks on run button for valid code in Applications of Array page
     Then The user should be presented with Run result for Applications of Array page
@@ -117,7 +117,7 @@ Feature: Array
     
     
     Scenario Outline:The user is presented with error message for code with invalid syntax in tryEditor for Applications of Array page
-    Given The user is in array page having an tryEditor with a Run button to test
+    Given The user is in array page having an tryEditor with a Run button to test invalid code Applications of Array page
     When The user enter python code with invalid syntax in Applications of Array page tryEditor from sheet "<Sheetname>" and <RowNumber>
     And The user clicks on run button for invalid code Applications of Array page
     Then The user should be presented with error message for Applications of Array page
@@ -141,8 +141,8 @@ Feature: Array
       When The user enter valid python code in tryEditor in Search the array link from sheet "<Sheetname>" and <RowNumber> for the question
       And The user clicks on run button for valid code in "Question" page
       Then The user should be presented with Run result for Search the array link
-      When The user clicks on Submit button
-      Then The user should be presented with successful submission message
+      When The user clicks on Submit button on question one
+      Then The user should be presented with successful submission message for Search the array
       
        Examples: 
       | Sheetname  | RowNumber |
@@ -152,7 +152,7 @@ Feature: Array
       
       
       Scenario Outline:  The user is presented with error message for code with invalid syntax in tryEditor for Search the array link
-      Given The user is on "Question" page of "Search the array"
+      Given The user is on "Question" page of Search the array
       When The user enter invalid python code in tryEditor in Search the array link from sheet "<Sheetname>" and <RowNumber> for the question
       And The user clicks on run button for valid code in "Question" page
       Then The user should be presented with error message for Search the array link
@@ -162,18 +162,18 @@ Feature: Array
       
       
       Scenario: The user is able to navigate to Question page from Max Consecutive Ones
-      Given The user is on the Practice page 
+      Given The user is on the Practice page to check  Max Consecutive Ones
       When The user clicks the "Max Consecutive Ones" link
-      Then The user should be redirected to question page contains an tryEditor with Run and Submit buttons
+      Then The user should be redirected to question page contains an tryEditor with Run and Submit buttons for question two
       
      
       Scenario Outline: The user is able to run and submit code in tryEditor for Max Consecutive Ones
-      Given The user is on "Question" page of "Max Consecutive Ones" 
+      Given The user is on Question page of Max Consecutive Ones 
       When The user enter valid python code in tryEditor in Max Consecutive Ones from sheet "<Sheetname>" and <RowNumber> for the question
       And The user clicks on run button for valid code in Max Consecutive Ones
       Then The user should be presented with Run result for Max Consecutive Ones
-      When The user clicks on Submit button
-      Then The user should be presented with successful submission message
+      When The user clicks on Submit button on question two
+      Then The user should be presented with successful submission message on question two
       
       Examples: 
       | Sheetname  | RowNumber |
@@ -182,7 +182,7 @@ Feature: Array
       
       
       Scenario Outline: The user is presented with error message for invalid code in tryEditor for Max Consecutive Ones
-      Given The user is on "Question" page of "Max Consecutive Ones" 
+      Given The user is on Question page of Max Consecutive Ones 
       When The user enter invalid python code in tryEditor in Max Consecutive Ones from sheet "<Sheetname>" and <RowNumber> for the question
       And The user clicks on run button for invalid code in Max Consecutive Ones
       Then The user should be presented with error message for Max Consecutives Ones
@@ -194,17 +194,17 @@ Feature: Array
           
       Scenario: The user is able to navigate to Question page from Find Numbers with Even Number of Digits
       Given The user is on the Practice page to check Even Number of Digits
-      When The user clicks the "Find Numbers with Even Number of Digits" link
-      Then The user should be redirected to question page contains an tryEditor with Run and Submit buttons
+      When The user clicks the "Find Numbers with Even Number of Digits" link after logging in
+      Then The user should be redirected to question page contains an tryEditor with Run and Submit buttons for question three
             
      
       Scenario Outline: The user is able to run code in tryEditor for Find Numbers with Even Number of Digits
-      Given The user is on "Question page" of "Find Numbers with Even Number of Digits"
+      Given The user is on Question page of Find Numbers with Even Number of Digits
       When The user enter valid python code in tryEditor in Even Number of Digits from sheet "<Sheetname>" and <RowNumber> for the question
       And The user clicks on run button for valid code in Find Numbers with Even Number of Digits
       Then The user should be presented with Run result for Even Number of Digits
-      When The user clicks on Submit button
-      Then The user should be presented with successful submission message
+      When The user clicks on Submit button on question three
+      Then The user should be presented with successful submission message on question three
       
       Examples: 
       | Sheetname  | RowNumber |
@@ -228,22 +228,23 @@ Feature: Array
       
       
       Scenario Outline: The user is able to run code in tryEditor for Squares of a Sorted Array
-      Given The user is on Question page of Squares of a Sorted Array after logged in
+      Given The user is on Question page of Squares of a Sorted Array a
       When The user enter valid python code in tryEditor in Squares of a Sorted Array from sheet "<Sheetname>" and <RowNumber> for the question
       And The user clicks on run button for valid code in Sorted Array
       Then The user should be presented with Run result for Squares of Sorted Array
-      When The user clicks on Submit button
-      Then The user should be presented with successful submission message
+      When The user clicks on Submit button on question four
+      Then The user should be presented with successful submission message on question four
        Examples: 
       | Sheetname  | RowNumber |
       | pythonCode |         0 |
       
           
       Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Squares of a Sorted Array
-      Given The user is on Question page of Squares of a Sorted Array after logged in
+      Given The user is on Question page of Squares of a Sorted Array 
       When The user enter invalid python code in tryEditor in Squares of a Sorted Array from sheet "<Sheetname>" and <RowNumber> for the question
       And The user clicks on run button for invalid code in Sorted Array
       Then The user should be presented with error message for Squares of Sorted Array
        Examples: 
       | Sheetname  | RowNumber |
       | pythonCode |         1 |
+      

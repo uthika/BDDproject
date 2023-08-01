@@ -4,6 +4,7 @@ import java.time.Duration;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -27,6 +28,18 @@ public class ArrayPage {
 	private @FindBy (xpath ="//button[text()='Run']")WebElement runbtn;
 	private @FindBy (xpath ="//pre[@id='output']")WebElement output;
 	private @FindBy (xpath ="//a[text()='Arrays Using List']")WebElement arraylst;
+	private @FindBy (xpath ="//a[text()='Basic Operations in Lists']")WebElement basicop;
+	private @FindBy (xpath ="//a[text()='Applications of Array']")WebElement applarr;
+	private @FindBy (xpath ="//input[@type='submit']")WebElement submitbtn;
+	private @FindBy (xpath ="//a[@href='/array/practice']")WebElement practiceQuesLink;
+	private @FindBy (xpath ="//a[@href='/question/1']")WebElement searchArrayLink;
+//	private @FindBy (xpath ="//a[@href='/question/2']")WebElement maxConsecLink;
+	private @FindBy (xpath ="//a[text()='Max Consecutive Ones']")WebElement maxConsecLink;
+	private @FindBy (xpath ="//a[@href='/question/3']")WebElement findNumbers;
+//	private @FindBy (xpath ="//a[text()='Find Numbers with Even Number of Digits']")WebElement findNumbers;
+	private @FindBy (xpath ="//a[@href='/question/4']")WebElement squaresSortedarrayLink;
+	private @FindBy (xpath ="//div[@class ='CodeMirror cm-s-default']")WebElement textArea;
+//	private @FindBy (xpath ="//div[@class ='input']")WebElement textArea;
 	
 	public ArrayPage(WebDriver driver) {
 		this.driver = driver;
@@ -100,6 +113,69 @@ public class ArrayPage {
 	{
 		arraylst.click();
 	}
+	public void clickbasicOp()
+	{
+		basicop.click();
+	}
+	public void clickAppArr()
+	{
+		applarr.click();
+	}
+	
+	public void clicksubmitbtn()
+	{
+		submitbtn.click();
+	}
+	
+	public void clickpracticeQuesLink()
+	{
+		practiceQuesLink.click();
+	}
+	
+	public boolean verifySubmitBtn()
+	{
+		 return submitbtn.isDisplayed();
+		
+	}
+	public String getPracticPagetitle()
+	{
+		String title=driver.getTitle();
+		System.out.println("title"+title);
+		return title;
+	}
+	
+	public boolean verifyPracticePage()
+	{
+		 return searchArrayLink.isDisplayed();
+		
+	}
+	public void clearTextArea()
+	{
+		txteditor.sendKeys(Keys.CONTROL,"a",Keys.DELETE);
+	}
+	public void clicksearchArray()
+	{
+		searchArrayLink.click();
+	}
+	
+	public void clickmaxConsecutive()
+	{
+		maxConsecLink.click();
+	}
+	
+	
+	public void clickFindNumbers()
+	{
+		findNumbers.click();
+	}
+	
+	public void clickSquaresOfSortedArray()
+	{
+		squaresSortedarrayLink.click();
+	}
+
+
+
 
 
 	
