@@ -399,15 +399,15 @@ public class ArraySteps {
 	public void the_user_clicks_on_submit_button_on_question_one()throws InterruptedException {
 	 
 		arraypage.clicksubmitbtn();
-//		Thread.sleep(1000);
+		Thread.sleep(1000);
 	}
 
 	@Then("The user should be presented with successful submission message for Search the array")
-	public void the_user_should_be_presented_with_successful_submission_message_for_search_the_array() {
-		arraypage.readOutput();
-		
-//		String subMsg1=arraypage.readOutput();
-//	      Assert.assertEquals(subMsg1,"Successful Submission");
+	public void the_user_should_be_presented_with_successful_submission_message_for_search_the_array() throws InterruptedException {
+		//arraypage.readOutput();
+		Thread.sleep(1000);
+		String subMsg1=arraypage.readOutput();
+	    Assert.assertEquals(subMsg1,"Successful Submission");
 	      
 	}
 
@@ -440,7 +440,7 @@ public class ArraySteps {
 
 	@When("The user clicks the {string} link")
 	public void the_user_clicks_the_link(String string)throws InterruptedException {
-//		Thread.sleep(3000);
+		Thread.sleep(3000);
 		arraypage.clickmaxConsecutive();
 	}
 	@Then("The user should be redirected to question page contains an tryEditor with Run and Submit buttons for question two")
@@ -450,7 +450,8 @@ public class ArraySteps {
 
 	@Given("The user is on Question page of Max Consecutive Ones")
 	public void the_user_is_on_question_page_of_max_consecutive_ones() throws InterruptedException {
-	
+		DriverFactory.getDriver().navigate().back();
+		arraypage.clickmaxConsecutive();
 	    arraypage.clearTextArea();
 	   
 	}
@@ -482,13 +483,13 @@ public class ArraySteps {
 
 	@Then("The user should be presented with successful submission message on question two")
 	public void the_user_should_be_presented_with_successful_submission_message_on_question_two() throws InterruptedException {
-		arraypage.readOutput();
-		
-//		String subMsg1=arraypage.readOutput();
-//	    Assert.assertEquals(subMsg1,"Successful Submission");
+		//arraypage.readOutput();
+		Thread.sleep(1000);
+		String subMsg2=arraypage.readOutput();
+	    Assert.assertEquals(subMsg2,"Successful Submission");
 	    
 		DriverFactory.getDriver().navigate().back();
-//		Thread.sleep(3000);
+		Thread.sleep(3000);
 		arraypage.clickmaxConsecutive();
 		arraypage.clearTextArea();
 	      
@@ -518,7 +519,7 @@ public class ArraySteps {
 	@Given("The user is on the Practice page to check Even Number of Digits")
 	public void the_user_is_on_the_practice_page_to_check_even_number_of_digits() throws InterruptedException {
 		arraypage.verifyPracticePage();
-//		Thread.sleep(2000);
+		Thread.sleep(2000);
 	     
 	}
 	
@@ -562,16 +563,17 @@ public class ArraySteps {
 
 	@Then("The user should be presented with successful submission message on question three")
 	public void the_user_should_be_presented_with_successful_submission_message_on_question_three() throws InterruptedException {
-		arraypage.readOutput();
-//		String subMsg1=arraypage.readOutput();
-//	    Assert.assertEquals(subMsg1,"Successful Submission");
+		//arraypage.readOutput();
+		Thread.sleep(1000);
+		String subMsg3=arraypage.readOutput();
+	    Assert.assertEquals(subMsg3,"Successful Submission");
 	    
 	}
 
 	@Given("The user is on Question page of Find Numbers with Even Number of Digits after logged in")
 	public void the_user_is_on_question_page_of_find_numbers_with_even_number_of_digits_after_logged_in() throws InterruptedException {
 		DriverFactory.getDriver().navigate().back();
-		arraypage.clickmaxConsecutive();
+		arraypage.clickFindNumbers();
 //		Thread.sleep(1000);
 		arraypage.clearTextArea();
 	}
@@ -597,7 +599,7 @@ public class ArraySteps {
 	@Given("The user is on the Practice page after logged in")
 	public void the_user_is_on_the_practice_page_after_logged_in() throws InterruptedException {
 		DriverFactory.getDriver().navigate().back();
-//		Thread.sleep(500);
+		Thread.sleep(500);
 	}
 
 	@When("The user clicks the Squares of a Sorted Array link")
@@ -639,17 +641,19 @@ public class ArraySteps {
 
 	@Then("The user should be presented with successful submission message on question four")
 	public void the_user_should_be_presented_with_successful_submission_message_on_question_four() throws InterruptedException {
-		arraypage.readOutput();
-//		String subMsg1=arraypage.readOutput();
-//	    Assert.assertEquals(subMsg1,"Successful Submission");
+	//	arraypage.readOutput();
+		Thread.sleep(1000);
+		String subMsg4=arraypage.readOutput();
+		Assert.assertEquals(subMsg4,"Successful Submission");
 //	    Thread.sleep(500);
 		DriverFactory.getDriver().navigate().back();
 	}
 
 	@Given("The user is on Question page of Squares of a Sorted Array")
 	public void the_user_is_on_question_page_of_squares_of_a_sorted_array() throws InterruptedException{
-	   arraypage.clickSquaresOfSortedArray();
-//	   Thread.sleep(500);
+		DriverFactory.getDriver().navigate().back();
+		arraypage.clickSquaresOfSortedArray();
+	   Thread.sleep(500);
 		arraypage.clearTextArea();
 	}
 

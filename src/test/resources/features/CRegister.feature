@@ -38,7 +38,7 @@ Given The user opens Register Page
 When The user clicks "Register" button after entering valid "username" and different passwords in "password" and "password confirmation" fields
       | username     | password     | password confirmation |
       | AgileNinjas@sdet120_1 | testpassword | testpassword1   | 
-Then It should display an error message "password_mismatch:The two password fields didn’t match."
+Then It should display an error message saying "password_mismatch:The two password fields didn’t match."
 
 Scenario: The user is presented with error message for password with characters less than 8
 Given The user opens Register Page

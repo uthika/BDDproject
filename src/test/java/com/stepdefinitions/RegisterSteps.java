@@ -77,7 +77,8 @@ public class RegisterSteps {
 
 	@Then("It should display an error message {string}")
 	public void it_should_display_an_error_message(String string) {
-	    registerpage.GetErrorMsg();
+	    String message =registerpage.GetErrorMsg();
+	    Assert.assertTrue(message.equals("Password should contain at least 8 characters") || message.equals("Password canâ€™t be entirely numeric.")|| message.equals("password cannot be too similar to your other personal information.")|| message.equals("Password cannot be commonly used password"));
 	}
 
 
@@ -99,6 +100,12 @@ public class RegisterSteps {
 		 String password8 = credList.get(0).get("password confirmation");
 		 registerpage.passwordNotMatch(username5,password7,password8);
 		 registerpage.clickRegister();
+	}
+	
+	@Then("It should display an error message saying {string}")
+	public void it_should_display_an_error_message_saying(String string) {
+	    String msg=registerpage.GetErrorMsg();
+	    Assert.assertEquals(msg,"password_mismatch:The two password fields didn’t match.");
 	}
 
 	@When("The user enters a valid {string} and {string} with characters less than {int}")
