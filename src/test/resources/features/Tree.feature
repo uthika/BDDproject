@@ -9,20 +9,6 @@ Scenario: The user is able to navigate to Tree Data Structure page
     Given The user is on the Tree Page
     When  The user clicks the Overview of Trees in Tree
     Then  The user should be navigated to Overview of Trees Page
-Examples:
-   |links|titles|
-  |Terminologies|Terminologies|
-  |Types of Trees|Types of Trees|
-  |Tree Traversals|Tree Traversals|
-  |Traversals-Illustration|Traversals-Illustration|
-  |Binary Trees|Binary Trees|
-  |Types of Binary Trees|Types of Binary Trees|
-  |Implementation in Python|Implementation in Python|
-  |Binary Tree Traversals|Binary Tree Traversals|
-  |Implementation of Binary Trees|Implementation of Binary Trees|
-  |Applications of Binary trees|Applications of Binary trees|
-  |Binary Search Trees|Binary Search Trees|
-  |Implementation Of BST|Implementation Of BST|
  
     
 Scenario: The user should be directed to editor page with run button to test python code

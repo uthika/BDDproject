@@ -1,0 +1,928 @@
+['INFO ]2023-08-05 13:44:34,217(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-05 13:44:34,420(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-05 13:44:34,898(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-05 13:44:58,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-05 13:44:58,720(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-05 13:44:58,979(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-05 13:44:59,025(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-05 13:44:59,025(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-05 13:44:59,323(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-05 13:45:00,588(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-05 13:45:01,302(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:04,046(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:06,494(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:18,140(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:19,492(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:23,332(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:29,209(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:33,719(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:37,177(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:39,310(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:41,212(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:41,632(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-05 13:45:43,049(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:43,412(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-05 13:45:45,197(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:45,613(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-05 13:45:47,400(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:47,852(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-05 13:45:49,504(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:49,870(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-05 13:45:51,255(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:51,605(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-05 13:45:53,231(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:53,634(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-05 13:45:55,182(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:45:57,248(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:57,608(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-05 13:45:59,066(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:45:59,371(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-05 13:46:01,162(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:46:01,480(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-05 13:46:02,997(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:07,301(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:08,038(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:08,888(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:14,224(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:26,914(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:27,709(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:28,577(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:29,482(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:30,366(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:31,215(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:32,153(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:33,050(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:33,850(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:34,780(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:35,617(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:46:36,487(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:50:05,056(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-05 13:50:05,333(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-05 13:50:05,772(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-05 13:50:28,712(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-05 13:50:28,831(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-05 13:50:29,063(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-05 13:50:29,103(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-05 13:50:29,103(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-05 13:50:29,383(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-05 13:50:30,723(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-05 13:50:31,474(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:50:34,068(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:50:36,227(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:50:38,706(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:50:40,725(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:50:44,917(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:50:50,895(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:50:55,850(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:50:59,576(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:02,143(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:04,467(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:04,963(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-05 13:51:06,868(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:07,248(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-05 13:51:09,228(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:09,584(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-05 13:51:11,409(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:11,781(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-05 13:51:13,866(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:14,264(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-05 13:51:16,178(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:16,563(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-05 13:51:18,421(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:18,777(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-05 13:51:20,706(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:23,182(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:23,546(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-05 13:51:25,515(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:25,833(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-05 13:51:27,805(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-05 13:51:28,193(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-05 13:51:30,150(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:35,557(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:36,552(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:37,456(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:42,963(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:58,469(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:51:59,363(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:00,513(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:01,463(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:02,369(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:03,318(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:04,349(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:05,312(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:06,216(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:07,112(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:08,061(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-05 13:52:09,083(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:00:46,102(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-06 13:00:46,460(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-06 13:00:46,844(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-06 13:01:10,319(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-06 13:01:10,443(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-06 13:01:10,717(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-06 13:01:10,780(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-06 13:01:10,780(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-06 13:01:11,071(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-06 13:01:12,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-06 13:01:13,245(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:16,184(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:18,475(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:21,007(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:23,395(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:27,834(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:33,689(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:38,414(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:42,234(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:44,881(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:01:46,852(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:01:47,370(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-06 13:01:49,096(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:01:49,477(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-06 13:01:51,101(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:01:51,541(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-06 13:01:53,184(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:01:53,491(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-06 13:01:55,501(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:01:55,924(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-06 13:01:57,618(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:01:57,986(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-06 13:01:59,768(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:02:00,211(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-06 13:02:01,943(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:04,165(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:02:04,582(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-06 13:02:06,183(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:02:06,482(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-06 13:02:08,291(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 13:02:08,664(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-06 13:02:10,297(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:14,946(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:15,839(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:16,647(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:19,932(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:33,984(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:34,859(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:35,801(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:36,731(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:37,570(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:38,385(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:39,233(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:40,357(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:41,288(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:42,112(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:42,995(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 13:02:43,932(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:20:34,887(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-06 17:20:35,235(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-06 17:20:35,816(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-06 17:21:04,129(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-06 17:21:04,249(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-06 17:21:04,592(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-06 17:21:04,707(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-06 17:21:04,707(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-06 17:21:05,370(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-06 17:21:06,760(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-06 17:21:07,830(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:11,013(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:13,164(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:15,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:18,063(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:22,911(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:29,600(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:34,933(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:39,341(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:42,847(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:21:45,390(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:21:46,090(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-06 17:21:48,646(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:21:49,225(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-06 17:21:51,435(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:21:51,987(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-06 17:21:54,212(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:21:54,665(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-06 17:21:56,825(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:21:57,303(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-06 17:21:59,534(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:22:00,087(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-06 17:22:02,167(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:22:02,723(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-06 17:22:04,961(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:07,739(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:22:08,308(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-06 17:22:10,584(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:22:11,036(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-06 17:22:13,209(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:22:13,687(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-06 17:22:15,998(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:22,285(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:23,385(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:24,296(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:28,823(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:47,147(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:48,315(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:49,625(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:50,849(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:51,966(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:53,271(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:54,432(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:55,547(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:56,713(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:57,898(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:22:59,142(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:23:00,359(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:25:32,358(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-06 17:25:32,544(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-06 17:25:32,957(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-06 17:25:57,776(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-06 17:25:57,914(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-06 17:25:58,188(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-06 17:25:58,257(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-06 17:25:58,257(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-06 17:25:58,555(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-06 17:26:00,200(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-06 17:26:01,303(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:05,031(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:07,575(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:10,380(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:13,136(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:18,148(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:25,510(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:31,320(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:36,414(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:40,543(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:26:43,624(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:26:44,142(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-06 17:26:46,955(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:26:47,772(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-06 17:26:50,552(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:26:51,330(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-06 17:26:54,016(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:26:54,739(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-06 17:26:57,212(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:26:58,068(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-06 17:27:00,641(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:27:01,300(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-06 17:27:04,056(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:27:04,837(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-06 17:27:07,470(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:27:10,649(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:27:11,453(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-06 17:27:14,263(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:27:15,045(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-06 17:27:17,954(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-06 17:27:18,565(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-06 17:27:21,307(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:27:28,700(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:27:30,013(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:27:31,746(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:27:36,990(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:27:58,349(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:27:59,636(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:01,050(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:02,360(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:03,800(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:05,088(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:06,379(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:07,529(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:08,762(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:10,353(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:11,593(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-06 17:28:12,993(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:21:19,856(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-07 17:21:20,220(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-07 17:21:20,793(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-07 17:21:54,027(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-07 17:21:54,130(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-07 17:21:54,494(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 17:21:54,595(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 17:21:54,596(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-07 17:21:55,001(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-07 17:21:57,866(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-07 17:22:00,784(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:06,927(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:11,330(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:15,676(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:19,150(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:25,210(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:33,619(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:39,931(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:45,308(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:50,653(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:22:55,065(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:22:55,899(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-07 17:22:59,444(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:00,492(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-07 17:23:04,393(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:05,316(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-07 17:23:09,041(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:09,999(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-07 17:23:13,369(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:14,172(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-07 17:23:17,894(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:18,807(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-07 17:23:22,445(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:23,399(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-07 17:23:27,670(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:23:32,081(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:32,926(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-07 17:23:36,427(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:37,570(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-07 17:23:41,109(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 17:23:41,970(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-07 17:23:45,668(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:23:55,828(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:23:57,909(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:23:59,777(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:07,616(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:35,370(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:37,226(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:39,558(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:42,184(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:44,581(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:46,465(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:48,576(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:50,774(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:52,610(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:54,641(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:56,701(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 17:24:58,522(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:22:07,960(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-07 20:22:08,177(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-07 20:22:08,688(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-07 20:22:31,239(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-07 20:22:31,345(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-07 20:22:31,628(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 20:22:31,693(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 20:22:31,693(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-07 20:22:32,052(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-07 20:22:33,375(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-07 20:22:34,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:22:36,616(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:22:38,531(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:22:41,043(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:22:43,144(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:22:47,371(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:22:53,268(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:22:57,906(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:01,538(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:04,280(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:06,368(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:06,794(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-07 20:23:08,618(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:09,029(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-07 20:23:10,859(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:11,251(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-07 20:23:13,138(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:13,525(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-07 20:23:15,177(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:15,550(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-07 20:23:17,403(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:17,785(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-07 20:23:19,526(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:19,923(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-07 20:23:21,870(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:24,119(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:24,545(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-07 20:23:26,330(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:26,661(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-07 20:23:28,451(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:23:28,875(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-07 20:23:30,680(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:35,570(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:36,427(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:37,371(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:42,819(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:56,888(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:57,851(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:58,714(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:23:59,565(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:24:00,520(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:24:01,602(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:24:02,535(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:24:03,491(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:24:04,379(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:24:05,511(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:24:06,506(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:24:07,372(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:28:51,491(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-07 20:28:51,760(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-07 20:28:52,258(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-07 20:29:15,112(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-07 20:29:15,235(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-07 20:29:15,582(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 20:29:15,648(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 20:29:15,648(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-07 20:29:15,981(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-07 20:29:17,299(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-07 20:29:18,055(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:20,552(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:22,493(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:24,761(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:27,078(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:31,088(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:37,012(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:41,671(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:45,316(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:47,945(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:29:50,040(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:29:50,560(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-07 20:29:52,479(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:29:52,899(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-07 20:29:54,731(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:29:55,136(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-07 20:29:56,930(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:29:57,334(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-07 20:29:59,213(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:29:59,630(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-07 20:30:01,358(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:30:01,788(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-07 20:30:03,763(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:30:04,134(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-07 20:30:05,952(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:08,190(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:30:08,544(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-07 20:30:10,405(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:30:10,811(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-07 20:30:12,627(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:30:12,963(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-07 20:30:14,864(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:19,846(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:20,726(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:21,568(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:27,017(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:41,421(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:42,385(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:43,304(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:44,191(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:45,034(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:45,972(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:47,001(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:47,901(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:48,782(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:49,699(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:50,736(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:30:51,667(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:36:07,137(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-07 20:36:07,349(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-07 20:36:07,845(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-07 20:36:30,307(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-07 20:36:30,388(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-07 20:36:30,632(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 20:36:30,677(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 20:36:30,677(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-07 20:36:30,964(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-07 20:36:32,268(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-07 20:36:33,057(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:36:35,541(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:36:37,353(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:36:39,596(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:36:41,854(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:36:46,119(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:36:51,969(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:36:56,597(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:00,171(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:02,581(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:04,640(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:05,091(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-07 20:37:06,963(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:07,422(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-07 20:37:09,097(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:09,470(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-07 20:37:11,456(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:11,851(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-07 20:37:13,513(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:13,897(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-07 20:37:15,704(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:16,067(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-07 20:37:17,805(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:18,220(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-07 20:37:20,139(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:22,245(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:22,660(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-07 20:37:24,454(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:24,779(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-07 20:37:26,463(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:37:26,860(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-07 20:37:28,670(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:33,532(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:34,351(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:35,253(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:40,665(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:54,412(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:55,399(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:56,363(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:57,242(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:58,101(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:37:59,096(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:38:00,043(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:38:00,906(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:38:01,757(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:38:02,644(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:38:03,726(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:38:04,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:46:45,854(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-07 20:46:46,215(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-07 20:46:46,860(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-07 20:47:11,659(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-07 20:47:11,708(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-07 20:47:11,914(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 20:47:11,952(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-07 20:47:11,952(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-07 20:47:12,214(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-07 20:47:13,334(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-07 20:47:14,001(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:16,328(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:18,342(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:20,263(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:22,285(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:26,568(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:32,435(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:37,159(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:40,939(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:43,674(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:47:45,766(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:47:46,260(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-07 20:47:48,008(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:47:48,456(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-07 20:47:50,342(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:47:50,718(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-07 20:47:52,639(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:47:53,060(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-07 20:47:54,865(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:47:55,288(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-07 20:47:57,105(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:47:57,521(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-07 20:47:59,300(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:47:59,718(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-07 20:48:01,665(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:03,863(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:48:04,245(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-07 20:48:06,230(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:48:06,589(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-07 20:48:08,499(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-07 20:48:08,913(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-07 20:48:10,781(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:15,715(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:16,679(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:17,618(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:23,023(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:37,856(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:38,724(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:39,632(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:40,562(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:41,573(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:42,489(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:43,356(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:44,294(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:45,436(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:46,381(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:47,269(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-07 20:48:48,219(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:29:00,862(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-08 14:29:01,067(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-08 14:29:01,485(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-08 14:29:32,546(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-08 14:29:32,777(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-08 14:29:33,004(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-08 14:29:33,100(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-08 14:29:33,100(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-08 14:29:33,619(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-08 14:29:35,131(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-08 14:29:36,139(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:29:39,437(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:29:41,893(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:29:44,391(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:29:47,022(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:29:51,926(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:29:59,000(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:30:04,595(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:30:09,353(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:30:13,100(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:30:15,632(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:16,260(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-08 14:30:18,611(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:19,028(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-08 14:30:21,270(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:21,661(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-08 14:30:24,002(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:24,520(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-08 14:30:26,919(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:27,466(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-08 14:30:29,778(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:30,171(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-08 14:30:32,567(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:33,074(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-08 14:30:35,138(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:30:38,570(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:39,093(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-08 14:30:41,562(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:42,061(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-08 14:30:44,341(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:30:44,901(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-08 14:30:47,488(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:30:53,977(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:30:55,289(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:30:56,280(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:04,721(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:23,188(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:24,527(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:25,883(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:27,218(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:28,405(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:29,585(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:30,753(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:31,862(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:33,234(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:34,506(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:35,735(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:31:37,335(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:57:29,186(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-08 14:57:29,453(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-08 14:57:29,902(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-08 14:57:52,627(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-08 14:57:52,690(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-08 14:57:52,965(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-08 14:57:53,010(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-08 14:57:53,013(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-08 14:57:53,316(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-08 14:57:54,517(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-08 14:57:55,202(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:57:57,335(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:57:59,122(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:01,231(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:03,208(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:07,081(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:12,972(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:17,422(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:21,028(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:23,160(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:24,988(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:25,411(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-08 14:58:26,855(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:27,273(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-08 14:58:28,989(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:29,375(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-08 14:58:30,879(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:31,239(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-08 14:58:32,869(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:33,280(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-08 14:58:34,947(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:35,350(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-08 14:58:37,251(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:37,619(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-08 14:58:39,305(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:41,530(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:41,895(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-08 14:58:43,608(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:44,032(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-08 14:58:45,735(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-08 14:58:46,060(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-08 14:58:47,765(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:52,693(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:53,562(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:54,368(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:58:59,691(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:14,715(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:15,623(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:16,508(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:17,345(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:18,203(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:19,301(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:20,225(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:21,061(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:21,917(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:22,966(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:23,890(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-08 14:59:24,766(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:13:23,140(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-11 09:13:23,347(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-11 09:13:23,910(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-11 09:13:55,528(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-11 09:13:55,607(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-11 09:13:55,799(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-11 09:13:55,864(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-11 09:13:55,864(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-11 09:13:56,276(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-11 09:13:57,420(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-11 09:13:57,961(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:00,201(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:02,367(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:04,225(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:06,082(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:10,740(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:17,664(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:22,933(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:27,299(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:30,697(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:32,973(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:33,606(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-11 09:14:35,872(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:36,670(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-11 09:14:38,412(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:38,961(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-11 09:14:41,330(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:41,824(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-11 09:14:43,866(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:44,234(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-11 09:14:46,294(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:46,832(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-11 09:14:49,240(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:49,674(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-11 09:14:51,559(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:14:54,134(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:54,605(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-11 09:14:56,710(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:57,242(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-11 09:14:59,258(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 09:14:59,809(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-11 09:15:02,101(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:07,725(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:08,558(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:09,432(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:28,314(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:45,312(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:46,248(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:47,275(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:48,248(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:49,561(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:50,665(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:51,752(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:52,943(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:54,079(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:55,081(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:56,176(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 09:15:57,189(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:05:39,659(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-11 14:05:39,881(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-11 14:05:40,377(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-11 14:06:01,747(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-11 14:06:01,806(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-11 14:06:02,022(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-11 14:06:02,055(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-11 14:06:02,055(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-11 14:06:02,302(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-11 14:06:03,329(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-11 14:06:03,894(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:05,826(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:07,499(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:09,064(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:11,337(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:15,540(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:21,348(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:25,752(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:29,284(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:31,379(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:32,831(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:33,206(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-11 14:06:34,748(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:35,128(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-11 14:06:36,679(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:37,013(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-11 14:06:38,697(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:39,095(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-11 14:06:40,610(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:40,951(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-11 14:06:42,494(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:42,844(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-11 14:06:44,402(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:44,789(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-11 14:06:46,450(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:48,431(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:48,739(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-11 14:06:50,281(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:50,579(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-11 14:06:52,063(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:06:52,327(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-11 14:06:53,825(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:58,218(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:58,943(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:06:59,669(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:04,238(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:16,695(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:17,433(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:18,263(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:19,104(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:19,832(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:20,540(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:21,257(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:22,002(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:22,870(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:23,668(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:24,472(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:07:25,198(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:08:52,094(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-11 14:08:52,297(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-11 14:08:52,712(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-11 14:09:13,817(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-11 14:09:13,904(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-11 14:09:14,086(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-11 14:09:14,125(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-11 14:09:14,125(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-11 14:09:14,379(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-11 14:09:15,378(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-11 14:09:15,934(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:17,759(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:19,394(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:20,925(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:23,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:27,511(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:33,315(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:37,736(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:41,193(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:43,234(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:09:44,799(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:09:45,186(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-11 14:09:46,677(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:09:47,019(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-11 14:09:48,589(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:09:49,049(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-11 14:09:50,596(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:09:50,930(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-11 14:09:52,521(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:09:52,845(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-11 14:09:54,343(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:09:54,680(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-11 14:09:56,344(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:09:56,679(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-11 14:09:58,266(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:00,570(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:10:00,874(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-11 14:10:02,389(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:10:02,668(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-11 14:10:04,255(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:10:04,592(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-11 14:10:06,064(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:10,545(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:11,227(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:12,007(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:17,043(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:29,379(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:30,130(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:30,994(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:31,853(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:32,596(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:33,294(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:34,030(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:35,000(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:35,772(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:36,519(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:37,250(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:10:38,004(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:28:13,988(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-08-11 14:28:14,177(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-08-11 14:28:14,591(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-08-11 14:28:35,531(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-08-11 14:28:35,582(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-08-11 14:28:35,806(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-11 14:28:35,869(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-08-11 14:28:35,869(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-08-11 14:28:36,125(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-08-11 14:28:37,449(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-08-11 14:28:38,236(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:28:40,784(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:28:42,485(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:28:44,624(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:28:46,901(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:28:51,099(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:28:56,805(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:01,172(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:04,600(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:06,535(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:08,022(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:08,402(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-08-11 14:29:09,768(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:10,077(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-08-11 14:29:11,616(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:11,934(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-08-11 14:29:13,374(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:13,671(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-08-11 14:29:15,083(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:15,397(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-08-11 14:29:16,776(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:17,076(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-08-11 14:29:18,505(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:18,804(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-08-11 14:29:20,250(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:22,480(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:22,781(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-08-11 14:29:24,311(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:24,575(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-08-11 14:29:26,147(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-08-11 14:29:26,435(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-08-11 14:29:27,922(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:32,287(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:33,022(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:33,790(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:36,638(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:48,257(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:48,986(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:49,697(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:50,442(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:51,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:51,889(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:52,631(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:53,325(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:54,066(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:54,784(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:55,480(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-08-11 14:29:56,185(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
