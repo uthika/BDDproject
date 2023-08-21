@@ -19,10 +19,15 @@ public class SignInSteps {
 
 	private HomePage homepage = new HomePage(DriverFactory.getDriver());
 	private SignInPage signinpage = new SignInPage(DriverFactory.getDriver());
+	public String expectedurl1="https://dsportalapp.herokuapp.com/login";
+	public String expectedtitle="NumpyNinja";
+
 	
 	
 	@Given("The user is on signin page")
 	public void the_user_is_on_signin_page() {
+		DriverFactory.getDriver().get("https://dsportalapp.herokuapp.com/");
+		homepage.clickGetStartedmain();
 		signinpage.clickSigIn();
 	}
 

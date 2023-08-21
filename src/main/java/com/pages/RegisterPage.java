@@ -36,6 +36,10 @@ public class RegisterPage {
 	public void clickRegister() {
 		registerBtn.click();
 		}
+	
+	public void clickRegisterLnk() {
+		registerLink.click();
+		}
 
 	public void clearUsernameText() {
 		

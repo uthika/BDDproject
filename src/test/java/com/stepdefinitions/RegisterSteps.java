@@ -5,6 +5,7 @@ import java.util.Map;
 
 import org.testng.Assert;
 
+import com.pages.HomePage;
 import com.pages.RegisterPage;
 import com.pages.SignInPage;
 import com.qa.factory.DriverFactory;
@@ -16,9 +17,17 @@ import io.cucumber.java.en.When;
 
 public class RegisterSteps {
 	private RegisterPage registerpage = new RegisterPage(DriverFactory.getDriver());
+	private HomePage homepage = new HomePage(DriverFactory.getDriver());
+	public String expectedurl1="https://dsportalapp.herokuapp.com/login";
+	public String expectedurl2="https://dsportalapp.herokuapp.com/register";
+	public String expectedtitle="NumpyNinja";
+
 	
 	@Given("The user opens Register Page")
 	public void the_user_opens_register_page() {
+		DriverFactory.getDriver().get("https://dsportalapp.herokuapp.com/");
+		homepage.clickGetStartedmain();
+		registerpage.clickRegisterLnk();
 	     String pagename=registerpage.verifyisregister();
 	     System.out.println("The user is on registerpage:" +pagename);
 		       
