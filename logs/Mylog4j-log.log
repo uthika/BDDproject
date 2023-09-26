@@ -1463,3 +1463,260 @@ java.net.SocketException: Connection reset
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
 	at java.lang.Thread.run(Thread.java:1623) [?:?]
+['INFO ]2023-09-26 14:24:50,329(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+['INFO ]2023-09-26 14:24:50,339(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+['INFO ]2023-09-26 14:24:50,342(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,343(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,344(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,344(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,345(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,347(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,350(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,370(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+['INFO ]2023-09-26 14:24:50,373(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+['INFO ]2023-09-26 14:24:50,373(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,375(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,375(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,376(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,377(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,382(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,383(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,384(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,384(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,386(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,386(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,386(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,387(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,393(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+['INFO ]2023-09-26 14:24:50,394(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,396(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,396(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,396(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:24:50,397(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:24:50,409(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Running:
+  C:\Users\uthik\AppData\Local\Temp\testng-eclipse--1819424451\testng-customsuite.xml
+
+['INFO ]2023-09-26 14:24:50,461(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+['INFO ]2023-09-26 14:24:53,884(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+['INFO ]2023-09-26 14:24:53,920(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Exporting webdriver.chrome.driver as C:\Users\uthik\.cache\selenium\chromedriver\win64\116.0.5845.96\chromedriver.exe
+['INFO ]2023-09-26 14:25:03,904(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-09-26 14:25:04,507(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-09-26 14:25:05,315(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-09-26 14:25:33,355(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-09-26 14:25:33,427(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-09-26 14:25:33,629(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-09-26 14:25:33,656(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-09-26 14:25:33,656(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-09-26 14:25:33,925(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-09-26 14:25:34,892(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-09-26 14:25:35,414(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:25:35,516(yyyy-MM-ddHH:mm:ss.SSS][AsyncHttpClient-1-4]org.asynchttpclient.netty.handler.WebSocketHandler1)-onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1623) [?:?]
+['INFO ]2023-09-26 14:25:47,949(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@47157ec7: 46 ms
+['INFO ]2023-09-26 14:25:48,039(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.jq.Main@3ae62c8a: 90 ms
+['INFO ]2023-09-26 14:25:48,056(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.FailedReporter@5dc38bc: 17 ms
+['INFO ]2023-09-26 14:25:48,085(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.XMLReporter@66949b48: 28 ms
+['INFO ]2023-09-26 14:25:48,116(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@41a17eaa: 30 ms
+['INFO ]2023-09-26 14:25:48,131(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@517cfd07: 15 ms
+['INFO ]2023-09-26 14:25:48,132(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.internal.ExitCodeListener@14017887: 0 ms
+['INFO ]2023-09-26 14:30:09,209(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,219(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+['INFO ]2023-09-26 14:30:09,222(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,223(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,223(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,224(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,225(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,226(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,227(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,249(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+['INFO ]2023-09-26 14:30:09,251(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,253(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,254(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,255(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,256(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,256(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,261(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,261(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,263(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,264(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,266(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,267(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,267(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,268(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,273(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+['INFO ]2023-09-26 14:30:09,274(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+['INFO ]2023-09-26 14:30:09,276(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,276(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,276(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:30:09,276(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:30:09,293(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Running:
+  C:\Users\uthik\AppData\Local\Temp\testng-eclipse--1064335860\testng-customsuite.xml
+
+['INFO ]2023-09-26 14:30:09,343(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+['INFO ]2023-09-26 14:30:11,267(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+['INFO ]2023-09-26 14:30:11,297(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Exporting webdriver.chrome.driver as C:\Users\uthik\.cache\selenium\chromedriver\win64\116.0.5845.96\chromedriver.exe
+['INFO ]2023-09-26 14:30:22,608(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-09-26 14:30:23,373(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-09-26 14:30:24,228(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-09-26 14:30:52,138(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-09-26 14:30:52,217(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-09-26 14:30:52,405(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-09-26 14:30:52,444(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-09-26 14:30:52,444(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-09-26 14:30:52,686(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-09-26 14:30:53,630(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-09-26 14:30:54,191(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:30:54,243(yyyy-MM-ddHH:mm:ss.SSS][AsyncHttpClient-1-4]org.asynchttpclient.netty.handler.WebSocketHandler1)-onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1623) [?:?]
+['INFO ]2023-09-26 14:31:06,202(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4112e47b: 41 ms
+['INFO ]2023-09-26 14:31:06,350(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.jq.Main@af88ccf: 147 ms
+['INFO ]2023-09-26 14:31:06,376(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.FailedReporter@13e5d020: 26 ms
+['INFO ]2023-09-26 14:31:06,406(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.XMLReporter@3d5662ac: 29 ms
+['INFO ]2023-09-26 14:31:06,418(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@4ef6a2fd: 12 ms
+['INFO ]2023-09-26 14:31:06,434(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@61650e2d: 15 ms
+['INFO ]2023-09-26 14:31:06,434(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.internal.ExitCodeListener@50e86638: 0 ms
+['INFO ]2023-09-26 14:34:05,730(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,741(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+['INFO ]2023-09-26 14:34:05,744(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,744(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,746(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,746(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,747(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,747(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,749(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,767(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+['INFO ]2023-09-26 14:34:05,769(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,770(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+['INFO ]2023-09-26 14:34:05,771(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,772(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,773(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,773(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,778(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,778(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,779(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,779(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,781(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,781(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,781(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,781(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,788(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+['INFO ]2023-09-26 14:34:05,788(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,791(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,792(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,792(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+['INFO ]2023-09-26 14:34:05,792(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+['INFO ]2023-09-26 14:34:05,811(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Running:
+  C:\Users\uthik\AppData\Local\Temp\testng-eclipse--888720151\testng-customsuite.xml
+
+['INFO ]2023-09-26 14:34:05,862(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+['INFO ]2023-09-26 14:34:07,848(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+['INFO ]2023-09-26 14:34:07,883(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Exporting webdriver.chrome.driver as C:\Users\uthik\.cache\selenium\chromedriver\win64\116.0.5845.96\chromedriver.exe
+['INFO ]2023-09-26 14:34:18,913(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out username field
+['INFO ]2023-09-26 14:34:19,812(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-09-26 14:34:20,691(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-09-26 14:34:49,522(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-user enters valid username and password for data structure module
+['INFO ]2023-09-26 14:34:49,572(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in home page
+['INFO ]2023-09-26 14:34:49,771(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-09-26 14:34:49,814(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-In the DS Intro Page
+['INFO ]2023-09-26 14:34:49,815(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in Data structures intro page
+['INFO ]2023-09-26 14:34:50,045(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is on Time Complexity page
+['INFO ]2023-09-26 14:34:51,068(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-Valid DS Intro module outputThe sum of 7 and 9 is 16
+['WARN ]2023-09-26 14:34:51,601(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:34:53,454(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:34:55,057(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:34:56,771(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:34:58,316(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:02,339(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:08,250(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:12,704(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:16,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:18,322(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:20,029(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:20,482(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test introduction link
+['WARN ]2023-09-26 14:35:22,227(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:22,712(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test creating linked list link
+['WARN ]2023-09-26 14:35:24,224(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:24,521(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test types of linked list
+['WARN ]2023-09-26 14:35:26,232(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:26,581(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test implement linked list in python
+['WARN ]2023-09-26 14:35:28,032(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:28,391(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test traversal
+['WARN ]2023-09-26 14:35:30,003(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:30,360(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test insertion
+['WARN ]2023-09-26 14:35:31,998(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:32,337(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in linked list module to test deletion link
+['WARN ]2023-09-26 14:35:33,885(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:35,884(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:36,198(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test collections dequeue link
+['WARN ]2023-09-26 14:35:37,742(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:38,051(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test implementation using array
+['WARN ]2023-09-26 14:35:39,553(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['INFO ]2023-09-26 14:35:39,830(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-User is in queue module to test Queue Operations
+['WARN ]2023-09-26 14:35:41,526(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:45,847(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:46,621(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:47,306(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:35:50,243(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:02,574(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:03,322(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:04,068(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:04,814(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:05,770(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:06,567(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:07,300(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:08,081(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:08,898(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:09,766(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:10,574(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:11,324(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 4
+['WARN ]2023-09-26 14:36:14,401(yyyy-MM-ddHH:mm:ss.SSS][AsyncHttpClient-1-4]org.asynchttpclient.netty.handler.WebSocketHandler1)-onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1623) [?:?]
+['INFO ]2023-09-26 14:36:31,921(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@689f9dc8: 35 ms
+['INFO ]2023-09-26 14:36:32,030(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.jq.Main@331e52ed: 108 ms
+['INFO ]2023-09-26 14:36:32,045(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.FailedReporter@7dca9c94: 14 ms
+['INFO ]2023-09-26 14:36:32,097(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.XMLReporter@48cfefdb: 52 ms
+['INFO ]2023-09-26 14:36:32,110(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@54fc186f: 13 ms
+['INFO ]2023-09-26 14:36:32,127(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6411f8e2: 17 ms
+['INFO ]2023-09-26 14:36:32,127(yyyy-MM-ddHH:mm:ss.SSS][main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.internal.ExitCodeListener@1f03c0e8: 0 ms
