@@ -152,11 +152,11 @@
               </goals>
               <configuration>
                 <includes>
-                  <include>**/ParallelTestRunner.java</include>
+                  <include>**/MyTestRunner.java</include>
                 </includes>
                 <parallel>methods</parallel>
                 <threadCount>3</threadCount>
-                <perCoreThreadCount>true</perCoreThreadCount>
+                <perCoreThreadCount>false</perCoreThreadCount>
               </configuration>
             </execution>
           </executions>
